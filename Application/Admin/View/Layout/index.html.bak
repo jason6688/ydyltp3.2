@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<include file="Public/Admin/head/css.html"/>
+<include file="Public/Admin/head/js.html"/>
+</head>
+<body>
+<h1>Hello</h1>
+{__CONTENT__}
+</body>
+</html>
